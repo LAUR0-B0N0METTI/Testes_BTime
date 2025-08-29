@@ -1,0 +1,10 @@
+symbol,name,price,change,change_percent,volume,market_cap,pe_ratio,collection_date,source
+AAPL,AAPL,N/A,N/A,N/A,"37,892,960 ",N/A,N/A,2025-08-29 09:17:43,Yahoo Finance (Web Scraping)
+GOOGL,GOOGL,N/A,N/A,N/A,"32,120,680 ",N/A,N/A,2025-08-29 09:17:50,Yahoo Finance (Web Scraping)
+AMZN,AMZN,N/A,N/A,N/A,"29,240,304 ",N/A,N/A,2025-08-29 09:17:53,Yahoo Finance (Web Scraping)
+META,META,N/A,N/A,N/A,"7,439,411 ",N/A,N/A,2025-08-29 09:17:58,Yahoo Finance (Web Scraping)
+TSLA,TSLA,N/A,N/A,N/A,"66,971,936 ",N/A,N/A,2025-08-29 09:18:03,Yahoo Finance (Web Scraping)
+NVDA,NVDA,180.17,-1.43,(-0.79%),"278,310,768 ",N/A,N/A,2025-08-29 09:18:06,Yahoo Finance (Web Scraping)
+JPM,JPM,N/A,N/A,N/A,"6,399,794 ",N/A,N/A,2025-08-29 09:18:09,Yahoo Finance (Web Scraping)
+JNJ,JNJ,N/A,N/A,N/A,"3,983,802 ",N/A,N/A,2025-08-29 09:18:13,Yahoo Finance (Web Scraping)
+V,V,N/A,N/A,N/A,"4,959,792 ",N/A,N/A,2025-08-29 09:18:17,Yahoo Finance (Web Scraping)
